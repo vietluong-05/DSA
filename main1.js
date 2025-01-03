@@ -1,5 +1,5 @@
 const readline = require("readline");
-const { countBicycles, countMotorcycles } = require('D:/Hường/HỌC/KTLT/BTL/count.js');
+const { countBicycles, countMotorcycles } = require('D:/Hường/HỌC/KTLT/BTL/count.js');// đổi đường dẫn theo địa chỉ file count giúp t nhé Zịt :v
 class ParkingLot {
     constructor() {
         this.vehicles = [];
