@@ -1,12 +1,6 @@
 -------------------------------------------------------
 Nhóm 8: Đề 1 - Hệ thống quản lý bãi gửi xe 
 -------------------------------------------------------
-Danh sách thành viên:
-Nguyễn Thu Hường - 20231594
-Lê Thị Tú Trinh - 20231644
-Lương Anh Việt - 20231652
-Nguyễn Thị Ngọc Linh - 20221859
--------------------------------------------------------
 Cho bài toán bãi gửi xe 2 bánh (xe đạp và xe máy) không qua đêm. Giá tiền gửi được xác 
 định theo ban ngày và ban đêm. 
 · Xe đạp, ban ngày: 1k vnd 
@@ -35,6 +29,12 @@ xe trong bãi trả về -1. Chú ý, chỉ tính tiền, xe vẫn ở trong bã
 (1đ) 
 8. billall: tính tổng số tiền gửi xe thu được từ khi bắt đầu chạy chương trình, việc thu 
 tiền được thực hiện khi xe ra khỏi bãi. (1đ)
+
+Danh sách thành viên:
+Nguyễn Thu Hường - 20231594
+Lê Thị Tú Trinh - 20231644
+Lương Anh Việt - 20231652
+Nguyễn Thị Ngọc Linh - 20221859
 
 Phân công công việc:
 Nguyễn Thu Hường: Lệnh cnt-moto, cnt-xedap
